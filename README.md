@@ -1,7 +1,7 @@
 Sample Spring Boot application deployed to heroku
 ==========
 
-[![Build Status](https://travis-ci.org/codingricky/sample-spring-boot.png?branch=master)](https://travis-ci.org/codingricky/sample-spring-boot
+[![Build Status](https://travis-ci.org/codingricky/sample-spring-boot.png?branch=master)](https://travis-ci.org/codingricky/sample-spring-boot)
 
 Sample spring boot application that is ready to be deployed to heroku.
 
